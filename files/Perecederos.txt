@@ -1,0 +1,4 @@
+333:Manzana Golden:3:68:1
+854:Yogur Danone Azucarado:1:6:2
+636:Leche Desnatada Puleva:1.20:3:3
+999:Salchichas Oscar Mayer:2.50:6:4
